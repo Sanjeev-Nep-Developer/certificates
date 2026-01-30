@@ -1,11 +1,21 @@
-# Certificates & Learning Achievements
+# 📜 My Data Science Certificates
 
-Hi! I am **Sanjeev Khadka**, from Nepal.  
-I am a learner, very excited to work on learning and entrepreneurial projects.  
-I am focused on self-improvement, love coding, and also an athlete.  
+This repository contains certificates of courses I have completed as part of my Data Science & Machine Learning journey.
+
+## ✅ Completed Courses
+
+- 🐼 Pandas — Completed on: January 5, 2026  
+- 🧹 Data Cleaning — Completed on: January 11, 2026  
+- 📊 Data Visualization — Completed on: January 10, 2026  
+- 🧠 Feature Engineering — Completed on: January 12, 2026  
+
+## 📂 Folder Structure
+
+- Pandas/
+- Data_Cleaning/
+- Data_Visualization/
+- Feature_Engineering/
 
 ---
 
-## Certificate Completions
-
-- **January 5, 2026** – Completed **Pandas course** from **Kaggle** and received the certificate.
+Learning every day 🚀
